@@ -7,9 +7,10 @@ To get started, clone this repository to your local machine. You will need to ha
 ## Usage
 The password generator allows users to generate a random password based on the following parameters:
 
-Password length (between 8 and 18 characters)
-Include uppercase letters
-Include lowercase letters
-Include numbers
-Include special characters
+1. Password length (between 8 and 18 characters)
+2. Include uppercase letters
+3. Include lowercase letters
+4. Include numbers
+5. Include special characters
+
 To generate a password, users should select the desired password length and check the appropriate boxes for the types of characters to include. They can then click the "Generate Password" button to generate a random password.
