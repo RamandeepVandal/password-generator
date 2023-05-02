@@ -1,4 +1,4 @@
-### Password Generator
+# Password Generator
 This is a simple front-end project that generates a random password based on user-defined parameters. The project is built using React.
 
 ## Getting Started
